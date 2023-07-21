@@ -1,6 +1,6 @@
 #Number is Divisible by 3 or not
 
-Number = int(input("Please insert number: "))
+Number = int(input("Enter the number: "))
 
 if (Number%3==0):
     print(Number,"is divisible by 3")

@@ -1,6 +1,6 @@
 # given year is leep year or not
 
-year = int(input("Please your year:"))
+year = int(input("enteŕ the year:"))
 
 if (year % 400 == 0 and year % 100 == 0):
     print(year, "is leap year")
